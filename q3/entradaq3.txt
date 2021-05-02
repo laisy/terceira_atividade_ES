@@ -1,0 +1,24 @@
+tigre
+103.78
+África do Sul
+continuar
+cobra
+72.10
+venezuela
+continuar
+macaco
+96.50
+BRASIL
+macaco
+96.50
+venezuela
+cobra
+96.50
+venezuela
+tigre
+96.50
+EUA
+cobra
+96.50
+Brazil
+PARAR
